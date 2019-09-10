@@ -37,11 +37,11 @@
 	/* Home Banner Area css
 	============================================================================================ */
 	.home_banner_area {
-		min-height: 728px;
+		min-height: 550px;
 		margin-bottom: 120px;
 	}
 	.home_banner_area .banner_inner {
-		min-height: 650px;
+		min-height: 500px;
 	}
 	.header_area .navbar .nav .nav-item.submenu ul {
 		left: auto;
@@ -69,13 +69,13 @@
 		margin-top: 30px;
 	}
 	.home_banner_area .box_1620 {
-		bottom: -130px;
+		bottom: -100px;
 	}
 	.profile_inner .personal_text {
 		padding-left: 0px;
 	}
 	.home_banner_area.blog_banner .banner_inner{
-		min-height: 728px;
+		min-height: 550px;
 	}
 	.home_banner_area.blog_banner {
 		margin-bottom: 0px;

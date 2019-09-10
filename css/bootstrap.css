@@ -713,7 +713,13 @@ pre code {
     width: 100%;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+    float: left;
+    /* margin-left: 30px; */
+}
+
+.col-md-6, .col-lg-8 {
+    margin-left: 30px;
 }
 
 .col {
